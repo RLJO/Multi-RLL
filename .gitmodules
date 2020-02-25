@@ -58,3 +58,11 @@
 	path = server-brand
 	url = https://github.com/RLCO/server-brand.git
 	branch = 12.0
+[submodule "rma"]
+	path = rma
+	url = https://github.com/RLCO/rma.git
+	branch = 12.0
+[submodule "purchase-reporting"]
+	path = purchase-reporting
+	url = https://github.com/RLCO/purchase-reporting.git
+	branch = 12.0

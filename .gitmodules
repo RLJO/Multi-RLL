@@ -1,0 +1,60 @@
+[submodule "rest-framework"]
+	path = rest-framework
+	url = https://github.com/RLCO/rest-framework.git
+	branch = 12.0
+[submodule "storage"]
+	path = storage
+	url = https://github.com/RLCO/storage.git
+	branch = 12.0
+[submodule "server-env"]
+	path = server-env
+	url = https://github.com/RLCO/server-env.git
+	branch = 12.0
+[submodule "intrastat-extrastat"]
+	path = intrastat-extrastat
+	url = https://github.com/RLCO/intrastat-extrastat.git
+	branch = 12.0
+[submodule "event"]
+	path = event
+	url = https://github.com/RLCO/event.git
+	branch = 12.0
+[submodule "l10n-finland"]
+	path = l10n-finland
+	url = https://github.com/RLCO/l10n-finland.git
+	branch = 12.0
+[submodule "connector"]
+	path = connector
+	url = https://github.com/RLCO/connector.git
+	branch = 12.0
+[submodule "interface-github"]
+	path = interface-github
+	url = https://github.com/RLCO/interface-github.git
+	branch = 12.0
+[submodule "project-reporting"]
+	path = project-reporting
+	url = https://github.com/RLCO/project-reporting.git
+	branch = 12.0
+[submodule "vertical-isp"]
+	path = vertical-isp
+	url = https://github.com/RLCO/vertical-isp.git
+	branch = 12.0
+[submodule "vertical-hotel"]
+	path = vertical-hotel
+	url = https://github.com/RLCO/vertical-hotel.git
+	branch = 12.0
+[submodule "vertical-association"]
+	path = vertical-association
+	url = https://github.com/RLCO/vertical-association.git
+	branch = 12.0
+[submodule "survey"]
+	path = survey
+	url = https://github.com/RLCO/survey.git
+	branch = 12.0
+[submodule "stock-logistics-transport"]
+	path = stock-logistics-transport
+	url = https://github.com/RLCO/stock-logistics-transport.git
+	branch = 12.0
+[submodule "server-brand"]
+	path = server-brand
+	url = https://github.com/RLCO/server-brand.git
+	branch = 12.0

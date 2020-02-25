@@ -158,3 +158,103 @@
 	path = community-data-files
 	url = https://github.com/RLCO/community-data-files.git
 	branch = 12.0
+[submodule "account-consolidation"]
+	path = account-consolidation
+	url = https://github.com/RLCO/account-consolidation.git
+	branch = 12.0
+[submodule "manufacture"]
+	path = manufacture
+	url = https://github.com/RLCO/manufacture.git
+	branch = 12.0
+[submodule "l10n-thailand"]
+	path = l10n-thailand
+	url = https://github.com/RLCO/l10n-thailand.git
+	branch = 12.0
+[submodule "sale-reporting"]
+	path = sale-reporting
+	url = https://github.com/RLCO/sale-reporting.git
+	branch = 12.0
+[submodule "queue"]
+	path = queue
+	url = https://github.com/RLCO/queue.git
+	branch = 12.0
+[submodule "project"]
+	path = project
+	url = https://github.com/RLCO/project.git
+	branch = 12.0
+[submodule "l10n-brazil"]
+	path = l10n-brazil
+	url = https://github.com/RLCO/l10n-brazil.git
+	branch = 12.0
+[submodule "l10n-switzerland"]
+	path = l10n-switzerland
+	url = https://github.com/RLCO/l10n-switzerland.git
+	branch = 12.0
+[submodule "commission"]
+	path = commission
+	url = https://github.com/RLCO/commission.git
+	branch = 12.0
+[submodule "credit-control"]
+	path = credit-control
+	url = https://github.com/RLCO/credit-control.git
+	branch = 12.0
+[submodule "website"]
+	path = website
+	url = https://github.com/RLCO/website.git
+	branch = 12.0
+[submodule "geospatial"]
+	path = geospatial
+	url = https://github.com/RLCO/geospatial.git
+	branch = 12.0
+[submodule "bank-statement-import"]
+	path = bank-statement-import
+	url = https://github.com/RLCO/bank-statement-import.git
+	branch = 12.0
+[submodule "stock-logistics-barcode"]
+	path = stock-logistics-barcode
+	url = https://github.com/RLCO/stock-logistics-barcode.git
+	branch = 12.0
+[submodule "management-system"]
+	path = management-system
+	url = https://github.com/RLCO/management-system.git
+	branch = 12.0
+[submodule "account-invoice-reporting"]
+	path = account-invoice-reporting
+	url = https://github.com/RLCO/account-invoice-reporting.git
+	branch = 12.0
+[submodule "brand"]
+	path = brand
+	url = https://github.com/RLCO/brand.git
+	branch = 12.0
+[submodule "l10n-usa"]
+	path = l10n-usa
+	url = https://github.com/RLCO/l10n-usa.git
+	branch = 12.0
+[submodule "l10n-germany"]
+	path = l10n-germany
+	url = https://github.com/RLCO/l10n-germany.git
+	branch = 12.0
+[submodule "search-engine"]
+	path = search-engine
+	url = https://github.com/RLCO/search-engine.git
+	branch = 12.0
+[submodule "knowledge"]
+	path = knowledge
+	url = https://github.com/RLCO/knowledge.git
+	branch = 12.0
+[submodule "server-backend"]
+	path = server-backend
+	url = https://github.com/RLCO/server-backend.git
+	branch = 12.0
+[submodule "connector-jira"]
+	path = connector-jira
+	url = https://github.com/RLCO/connector-jira.git
+	branch = 12.0
+[submodule "currency"]
+	path = currency
+	url = https://github.com/RLCO/currency.git
+	branch = 12.0
+[submodule "l10n-netherlands"]
+	path = l10n-netherlands
+	url = https://github.com/RLCO/l10n-netherlands.git
+	branch = 12.0

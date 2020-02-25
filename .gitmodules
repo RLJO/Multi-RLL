@@ -1,0 +1,40 @@
+[submodule "product-pack"]
+	path = product-pack
+	url = https://github.com/RLCO/product-pack.git
+	branch = 12.0
+[submodule "manufacture-reporting"]
+	path = manufacture-reporting
+	url = https://github.com/RLCO/manufacture-reporting.git
+	branch = 12.0
+[submodule "l10n-japan"]
+	path = l10n-japan
+	url = https://github.com/RLCO/l10n-japan.git
+	branch = 12.0
+[submodule "l10n-belgium"]
+	path = l10n-belgium
+	url = https://github.com/RLCO/l10n-belgium.git
+	branch = 12.0
+[submodule "data-protection"]
+	path = data-protection
+	url = https://github.com/RLCO/data-protection.git
+	branch = 12.0
+[submodule "connector-telephony"]
+	path = connector-telephony
+	url = https://github.com/RLCO/connector-telephony.git
+	branch = 12.0
+[submodule "connector-interfaces"]
+	path = connector-interfaces
+	url = https://github.com/RLCO/connector-interfaces.git
+	branch = 12.0
+[submodule "connector-ecommerce"]
+	path = connector-ecommerce
+	url = https://github.com/RLCO/connector-ecommerce.git
+	branch = 12.0
+[submodule "connector-cmis"]
+	path = connector-cmis
+	url = https://github.com/RLCO/connector-cmis.git
+	branch = 12.0
+[submodule "business-requirement"]
+	path = business-requirement
+	url = https://github.com/RLCO/business-requirement.git
+	branch = 12.0
